@@ -1,0 +1,124 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');/*font-family: 'Lexend Deca', sans-serif;*/
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');/*font-family: 'Big Shoulders Display', cursive;*/
+
+:root {
+    --font-title: 'Big Shoulders Display', cursive;
+    --font-other: 'Lexend Deca', sans-serif;
+
+    --orange: hsl(31, 77%, 52%);
+    --cyan: hsl(184, 100%, 22%);
+    --dark-cyan: hsl(179, 100%, 13%);
+
+    --transparent-white: hsla(0, 0%, 100%, 0.75);
+    --light-gray: hsl(0, 0%, 95%);
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: var(--light-gray);
+    font-family: var(--font-title);
+    margin: 20px 0px;
+}
+
+p {
+    color: var(--transparent-white);
+    font-family: var(--font-other);
+    font-size: 15px;
+    line-height: 2em;
+}
+
+main {
+    width: 100vw;
+    margin: 8% auto;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+
+main > div {
+    padding: 45px;
+    width: 300px;
+    height: 500px;
+}
+/*DIV ORANGE*/
+div.orange {
+    background-color: var(--orange);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+div.orange > button {
+    border: 0px;
+    border-radius: 30px;
+    color: var(--orange);
+    font-family: var(--font-other);
+    font-size: 15px;
+    padding: 20px 30px;
+    margin-top: 80px;
+}
+
+div.orange > button:active {
+    background-color: var(--orange);
+    border: 2px solid var(--transparent-white);
+    color: var(--transparent-white);
+}
+
+/*DIV CYAN*/
+div.cyan {
+    background-color: var(--cyan);
+}
+
+div.cyan > button {
+    border: 0px;
+    border-radius: 30px;
+    color: var(--cyan);
+    font-family: var(--font-other);
+    font-size: 15px;
+    padding: 20px 30px;
+    margin-top: 80px;
+}
+
+div.cyan > button:active{
+    background-color: var(--cyan);
+    border: 2px solid var(--transparent-white);
+    color: var(--transparent-white);
+}
+
+/*DIV DARK CYAN*/
+div.dk-cyan {
+    background-color: var(--dark-cyan);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+div.dk-cyan > button {
+    border: 0px;
+    border-radius: 30px;
+    color: var(--dark-cyan);
+    font-family: var(--font-other);
+    font-size: 15px;
+    padding: 20px 30px;
+    margin-top: 80px;
+}
+
+div.dk-cyan > button:active {
+    background-color: var(--dark-cyan);
+    border: 2px solid var(--transparent-white);
+    color: var(--transparent-white);
+}
+
+footer > p {
+    color: black;
+    text-align: center;
+}
