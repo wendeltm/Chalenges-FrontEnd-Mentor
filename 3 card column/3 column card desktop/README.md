@@ -8,6 +8,7 @@ Is about to use HTML and CSS in a page, organize 3 card about cars, version desk
 # Built with
 - Semantic HTML5
 - CSS customs
+- Flex Grid
 
 # Links
 
