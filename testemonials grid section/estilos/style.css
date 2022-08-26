@@ -1,0 +1,131 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
+
+:root {
+    --violet: hsl(263, 55%, 52%);
+    --dark-blue: hsl(217, 19%, 35%);
+    --dark-blue-2: hsl(219, 29%, 14%);
+
+    --light-gray: hsl(0, 0%, 81%);
+    --light-blue: hsl(210, 46%, 95%);
+    --font-all: 'Barlow Semi Condensed', sans-serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: var(--light-blue);
+    font-family: var(--font-all);
+}
+
+img {
+    border-radius: 50%;
+    width: 35px;
+}
+
+section.img-name {
+    display: inline-flex;
+}
+
+img.patrick-daniel {
+    border: 2px solid hsl(263, 42%, 62%);
+}
+
+img.border-gray {
+    border: 2px solid hsl(218, 14%, 56%);
+}
+
+/* usernames */
+.name-verified {
+    padding: 0px 15px;
+}
+
+.verified {
+    font-size: 13px;
+    opacity: 50%;
+}
+
+/* paragraphs */
+.font-weight-1 {
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.2em;
+    margin-top: 10px;
+}
+
+.font-weight-2 {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.7em;
+    opacity: 70%;
+}
+
+/* main */
+main#container-1 {
+    height: 80%;
+    width: 80%;
+    margin: 4% auto;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div#container-2 {
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width: 70%;
+   
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 25px 30px;
+   
+}
+
+div.div-1 {
+    background-color: var(--violet);
+    color: white;
+    flex-grow: 1;
+}
+
+div.div-2 {
+    background-color: var(--dark-blue);
+    color: white;
+}
+
+div.div-3 {
+    background-color: white;
+}
+
+div.div-4 {
+    background-color: var(--dark-blue-2);
+    color: white;
+    flex-grow: 1;
+}
+
+div.div-solo {
+    background-color: white;
+    border-radius: 10px;
+    height: 77.5vh;
+}
+
+/* divs size */
+.size-div {
+    box-shadow: 4px 4px 10px 2px rgba(0, 0, 0, 0.11);
+    border-radius: 10px;
+    padding: 30px;
+    width: 230px;
+    min-height: 260px;
+}
+
+footer {
+    font-size: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+}
