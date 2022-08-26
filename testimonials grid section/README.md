@@ -8,4 +8,5 @@
 
 <h2 align="center"> Screenshot - my project </h2>
 
-<img src="https://user-images.githubusercontent.com/99341618/186968922-179902ea-1d80-4b37-b481-2818adec07ab.png" alt"">
+<img src="https://github.com/wendeltm/Chalenges-FrontEnd-Mentor/blob/main/testimonials%20grid%20section/printscreen-testemonial-grid.png" alt="screenshot my project">
+
