@@ -11,7 +11,7 @@
 <img src="https://github.com/wendeltm/Chalenges-FrontEnd-Mentor/blob/main/testemonials%20grid%20section/printscreen-testemonials-grid.png" alt="screenshot my project">
 
 # Links
-- Github Pages Solution : https://wendeltm.github.io/Chalenges-FrontEnd-Mentor/testemonials%20grid%20section/index.html
+- Github Pages Solution : <a target="_blank" href=https://wendeltm.github.io/Chalenges-FrontEnd-Mentor/testemonials%20grid%20section/index.html>Github pages</a>
 - Solution in FrontEnd Mentor : https://www.frontendmentor.io/solutions/testemonials-grid-section-XK7MVQoqqn
 
 # Built With
