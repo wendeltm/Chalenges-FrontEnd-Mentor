@@ -11,7 +11,7 @@
 <img src="https://github.com/wendeltm/Chalenges-FrontEnd-Mentor/blob/main/stats%20preview%20card%20component/design/screenshot-my-project.png">
 
 # Links
-- <a href="">Github Pages</a>
+- <a href="https://wendeltm.github.io/Chalenges-FrontEnd-Mentor/stats%20preview%20card%20component/index.html">Github Pages</a>
 - <a href="">Solution Chalenge</a>
 
 # Built With
