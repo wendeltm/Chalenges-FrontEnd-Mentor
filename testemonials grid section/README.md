@@ -27,3 +27,7 @@
 More about CSS Grid, a little about Media Query because i still learnig about media queries
 
 I improve my skills, and the challenge helped me to do this, building knowledge and be able to work with it
+
+# Author
+- Me
+- FrontEnd Mentor - <a href="https://www.frontendmentor.io/profile/wendeltm">@wendeltm</a>
