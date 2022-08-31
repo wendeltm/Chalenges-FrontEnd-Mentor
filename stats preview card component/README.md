@@ -12,7 +12,7 @@
 
 # Links
 - <a href="https://wendeltm.github.io/Chalenges-FrontEnd-Mentor/stats%20preview%20card%20component/index.html">Github Pages</a>
-- <a href="">Solution Chalenge</a>
+- <a href="https://www.frontendmentor.io/solutions/stats-preview-card-component-mobile-first-tKlVJw76QR">Solution Chalenge</a>
 
 # Built With
 - Semantic HTML5 markup
