@@ -11,7 +11,7 @@
 <img src="https://github.com/wendeltm/Chalenges-FrontEnd-Mentor/blob/main/QR%20Code%20Component/design/screenshot-project.png">
 
 # Links
-- <a href="#">Github Pages</a>
+- <a href="https://wendeltm.github.io/Chalenges-FrontEnd-Mentor/QR%20Code%20Component/index.html">Github Pages</a>
 - <a href="#">Solution Chalenge</a>
 
 # Built With
