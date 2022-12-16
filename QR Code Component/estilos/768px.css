@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+div.qr-code {
+    height: 590px;
+    width: 390px;
+}
+
+img {
+    width: 350px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 18px;
+    padding: 20px 40px 0px 40px;
+}
