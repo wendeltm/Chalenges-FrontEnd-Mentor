@@ -8,21 +8,19 @@
 
 <h2 align="center">Screenshot - My Project</h2>
 
-<img src="https://github.com/wendeltm/Chalenges-FrontEnd-Mentor/blob/main/stats%20preview%20card%20component/design/screenshot-my-project.png">
+<img src="https://github.com/wendeltm/Chalenges-FrontEnd-Mentor/blob/main/QR%20Code%20Component/design/screenshot-project.png">
 
 # Links
-- <a href="https://wendeltm.github.io/Chalenges-FrontEnd-Mentor/stats%20preview%20card%20component/index.html">Github Pages</a>
-- <a href="https://www.frontendmentor.io/solutions/stats-preview-card-component-mobile-first-tKlVJw76QR">Solution Chalenge</a>
+- <a href="#">Github Pages</a>
+- <a href="#">Solution Chalenge</a>
 
 # Built With
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
 - Mobile-first
 
 # What i Learned
-More about mobile first, css grid and your variations, about media query.
+More about mobile first, and more about media query.
 
 I improve my skills, and the challenge helped me to do this, building knowledge and be able to work with it
 
